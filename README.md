@@ -1,11 +1,14 @@
-<div align="center">
+<div align="center">  
   <h1>
     <span style="color: #FFFF00;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2000&pause=30000&color=FFFF00&center=true&vCenter=true&multiline=true&width=800&lines=👋+Hi+I'm+Tahir">
+      <img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=36&duration=1500&pause=30000&color=FFFF00&center=true&vCenter=true&multiline=true&width=700&lines=👋+Hi+%E2%80%89+I'm+%E2%80%89+Tahir">
     </span>
+    
   </h1>
+
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=300&color=3fddf08&center=true&vCenter=true&width=600&lines=Linux+Sysadmin+%F0%9F%92%BB;DevOps+Explorer+%F0%9F%94%90;Cybersecurity+Enthusiast+%F0%9F%9A%80;RHCSA+Certified+%F0%9F%94%8D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Sixtyfour+Convergence&size=24&duration=2000&pause=300&color=3fddf08&center=true&vCenter=true&width=600&lines=Linux+Sysadmin+%F0%9F%92%BB;DevOps+Explorer+%F0%9F%94%90;RHCSA+Certified+%F0%9F%94%8D" alt="Typing SVG" />
+
 
   </p>
 </div>
@@ -48,15 +51,12 @@
 ---
 
 ### 🌐 **Connect with Me**  
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/tahirguluzade" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="30" height="30"/>
-  </a>
-  <a href="https://github.com/tahirguluzade" target="_blank">
-    <img src="https://github.com/user-attachments/assets/ccbe9781-3b6c-4a96-bf31-0867f9b3958d" title="GitHub" alt="GitHub" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="20" height="20"/>
   </a>
   <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://github.com/user-attachments/assets/6057af80-ea2e-4136-8caa-3b717e651667" title="Email" alt="Email" width="30" height="30"/>
+    <img src="https://github.com/user-attachments/assets/6057af80-ea2e-4136-8caa-3b717e651667" title="Email" alt="Email" width="20" height="20"/>
   </a>
 </p>
 
