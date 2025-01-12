@@ -1,17 +1,17 @@
 <div align="center">
   <h1>
-    <span style="background: linear-gradient(to right, #FF5733, #FFC300, #DAF7A6, #33FF57, #00BFFF); -webkit-background-clip: text; color: transparent;">
+    <span style="background: linear-gradient(45deg, #ff0077, #ff5500, #00bfff, #32cd32, #ff1493); -webkit-background-clip: text; color: transparent;">
       Welcome to Tahir's Universe!
     </span>
   </h1>
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=500&color=00BFFF&center=true&vCenter=true&multiline=true&width=800&lines=🔧+Linux+Sysadmin+|+Automation+Mastermind;🔐+Cybersecurity+Expert+|+Network+Guardian;🚀+DevOps+Explorer+|+Cloud+Innovator" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=500&color=FF1493&center=true&vCenter=true&multiline=true&width=800&lines=🔧+Linux+Sysadmin+|+Automation+Mastermind;🔐+Cybersecurity+Expert+|+Network+Guardian;🚀+DevOps+Explorer+|+Cloud+Innovator" alt="Typing SVG">
   </p>
 </div>
 
 ---
 
-### 🌟 **Who Am I?**  
+### 🧑‍💻 **Who Am I?**  
 💼 **Linux Sysadmin** – Automating systems and solving challenges with precision.  
 🔐 **Cybersecurity Enthusiast** – Passionate about securing digital landscapes.  
 🚀 **DevOps Explorer** – Crafting efficient CI/CD pipelines and cloud deployments.  
@@ -52,9 +52,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
   </a>
   <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" title="Email" alt="Email" width="40" height="40"/>
-  </a>
-</p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" title="Email" alt
 
 
 
