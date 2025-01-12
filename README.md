@@ -1,14 +1,11 @@
 <div align="center">  
   <h1>
     <span style="color: #FFFF00;">
-      <img src="https://readme-typing-svg.demolab.com?font=Acme&size=36&duration=1500&pause=30000&color=FFFF00&center=true&vCenter=true&multiline=true&width=700&lines=👋+Hi+%E2%80%89+I'm+%E2%80%89+Tahir">
+      <img src="https://readme-typing-svg.demolab.com?font=Acme&size=40&duration=1500&pause=30000&color=FFFF00&center=true&vCenter=true&multiline=true&width=700&lines=👋+Hi+%E2%80%89+I'm+%E2%80%89+Tahir">
     </span>
     </h1>
-
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Sixtyfour+Convergence&size=16&duration=2000&pause=300&color=3fddf08&center=true&vCenter=true&width=600&lines=Linux+Sysadmin+%F0%9F%92%BB;DevOps+Explorer+%F0%9F%94%90;RHCSA+Certified+%F0%9F%94%8D" alt="Typing SVG" />
-
-
   </p>
 </div>
 
