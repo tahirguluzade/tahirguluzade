@@ -1,9 +1,11 @@
 <div align="center">
-  <h1>👋 Welcome to <span style="color:#0078FF;">Tahir's Universe!</span></h1>
+  <h1>👋 <span style="background: linear-gradient(to right, #00c6ff, #0072ff); -webkit-background-clip: text; color: transparent;">Welcome to Tahir's Universe!</span></h1>
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Linux+Sysadmin+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;DevOps+Explorer+%F0%9F%9A%80;RHCSA+Certified+%F0%9F%94%8D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0072FF&center=true&vCenter=true&width=600&lines=Linux+Sysadmin+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;DevOps+Explorer+%F0%9F%9A%80;RHCSA+Certified+%F0%9F%94%8D" alt="Typing SVG" />
   </p>
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="Cool Animation">
+  <div>
+    <img src="https://readme-jokes.vercel.app/api?theme=blue-green" alt="Jokes Card" />
+  </div>
 </div>
 
 ---
@@ -42,13 +44,6 @@
 
 ---
 
-### ✨ **Showcase of My Work**  
-<div align="center">
-  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="300" alt="Coding Animation">
-</div>
-
----
-
 ### 🌐 **Connect with Me**  
 <div align="center">
   <a href="https://www.linkedin.com/in/tahirguluzade">
@@ -61,4 +56,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
+
+
 
