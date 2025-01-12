@@ -1,7 +1,11 @@
 <div align="center">
-  <h1>👋 <span style="background: linear-gradient(90deg, #ff7f50, #ff6347, #1e90ff); -webkit-background-clip: text; color: transparent;">Welcome to Tahir's Universe!</span></h1>
+  <h1>
+    <span style="background: linear-gradient(to right, #FF5733, #FFC300, #DAF7A6, #33FF57, #00BFFF); -webkit-background-clip: text; color: transparent;">
+      Welcome to Tahir's Universe!
+    </span>
+  </h1>
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF4500&center=true&vCenter=true&multiline=true&width=800&lines=🔧+Linux+Sysadmin+|+Automation+Lover;🔐+Cybersecurity+Enthusiast+|+Network+Sec+Expert;🚀+DevOps+Explorer+|+Cloud+Adventurer" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=500&color=00BFFF&center=true&vCenter=true&multiline=true&width=800&lines=🔧+Linux+Sysadmin+|+Automation+Mastermind;🔐+Cybersecurity+Expert+|+Network+Guardian;🚀+DevOps+Explorer+|+Cloud+Innovator" alt="Typing SVG">
   </p>
 </div>
 
@@ -11,6 +15,7 @@
 💼 **Linux Sysadmin** – Automating systems and solving challenges with precision.  
 🔐 **Cybersecurity Enthusiast** – Passionate about securing digital landscapes.  
 🚀 **DevOps Explorer** – Crafting efficient CI/CD pipelines and cloud deployments.  
+🐍 **Python Developer** – Building scalable solutions and solving real-world problems.  
 
 ---
 
@@ -22,6 +27,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" title="VMware" alt="VMware" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="50" height="50"/>
 </p>
 
@@ -47,6 +55,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" title="Email" alt="Email" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
