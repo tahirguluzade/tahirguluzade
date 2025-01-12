@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <span style="background: linear-gradient(45deg, #ff0077, #ff5500, #00bfff, #32cd32, #ff1493); -webkit-background-clip: text; color: transparent;">
+    <span style="background: linear-gradient(90deg, #ff7f00, #ffff00); -webkit-background-clip: text; color: transparent;">
       Welcome to Tahir's Universe!
     </span>
   </h1>
@@ -55,8 +55,5 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" title="Email" alt="Email" width="40" height="40"/>
   </a>
 </p>
-
-
-
 
 
