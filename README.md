@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
     <span style="color: #FFFF00;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2000&pause=3000&color=FFFF00&center=true&vCenter=true&multiline=true&width=800&lines=👋+Hi+I'm+Tahir">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2000&pause=30000&color=FFFF00&center=true&vCenter=true&multiline=true&width=800&lines=👋+Hi+I'm+Tahir">
     </span>
   </h1>
   <p>
