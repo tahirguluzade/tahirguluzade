@@ -5,7 +5,7 @@
     </span>
     </h1>
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Sixtyfour+Convergence&size=16&duration=2000&pause=300&color=3fddf08&center=true&vCenter=true&width=600&lines=Linux+Sysadmin+%F0%9F%92%BB;DevOps+Explorer+%F0%9F%94%90;RHCSA+Certified+%F0%9F%94%8D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Sixtyfour+Convergence&size=16&duration=2000&pause=300&color=3fddf08&center=true&vCenter=true&width=600&lines=Linux+Sysadmin+%F0%9F%92%BB;DevOps+Explorer+%F0%9F%94%90;RHCSA+Certified+%F0%9F%94%8D;Automation+Lover" alt="Typing SVG" />
   </p>
 </div>
 
