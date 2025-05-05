@@ -1,10 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Acme&size=40&duration=1500&pause=30000&color=FFFF00&center=true&vCenter=true&multiline=true&width=700&lines=👋+Hi,+I'm+Tahir" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F000&center=true&vCenter=true&width=700&lines=Hi,+I'm+Tahir;Linux+Sysadmin;DevOps+Explorer;RHCSA+Certified;Automation+Lover" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=3FDCF0&center=true&vCenter=true&width=600&lines=Linux+Sysadmin+💻;DevOps+Explorer+🔐;RHCSA+Certified+🔍;Automation+Lover" alt="Typing SVG" />
-</p>
 ---
 
 
